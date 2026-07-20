@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Department,Semester,Attendance (%),Internal Marks,External Marks,Assignment Marks,Final Grade,Total Marks,Result
+101,Aarav,Male,CSE,1,92,24,58,18,A,100,Pass
+102,Diya,Female,CSE,1,88,22,55,17,B,94,Pass
+103,Rohan,Male,ECE,2,76,20,50,15,B,85,Pass
+104,Sneha,Female,EEE,2,69,18,45,14,C,77,Pass
+105,Vikram,Male,MECH,3,81,23,60,18,A,101,Pass
+106,Priya,Female,CIVIL,3,95,25,62,19,A,106,Pass
+107,Arjun,Male,CSE,4,72,17,42,13,C,72,Pass
+108,Ananya,Female,ECE,4,85,21,54,16,B,91,Pass
+109,Kiran,Male,EEE,5,90,24,61,18,A,103,Pass
+110,Meera,Female,MECH,5,78,20,49,15,B,84,Pass
+111,Rahul,Male,CIVIL,6,68,16,40,12,D,68,Pass
+112,Kavya,Female,CSE,6,91,25,64,20,A,109,Pass
+113,Harsha,Male,ECE,7,74,18,46,14,C,78,Pass
+114,Nisha,Female,EEE,7,87,22,56,17,B,95,Pass
+115,Sanjay,Male,MECH,8,83,23,59,18,A,100,Pass
+116,Pooja,Female,CIVIL,8,80,21,52,16,B,89,Pass
+117,Teja,Male,CSE,5,65,15,38,10,D,63,Pass
+118,Divya,Female,ECE,6,96,25,65,20,A,110,Pass
+119,Manoj,Male,EEE,3,73,17,43,13,C,73,Pass
+120,Keerthi,Female,MECH,2,89,24,60,19,A,103,Pass
